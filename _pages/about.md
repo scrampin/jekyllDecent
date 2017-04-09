@@ -1,12 +1,12 @@
 ---
 layout:    about
 permalink: "/about/"
-author:    jwillmer
+author:    scrampin
 keywords:  about person demo example
-title:     About Jens Willmer
+title:     About Steph
 menutitle: About
 weight:    90
-excerpt:   This page contains the curriculum vitae (CV) of the author.
+excerpt:   This is where you can find out about me.
 ---
 
 ## Profile

@@ -44,6 +44,7 @@
             margin: 5px;
             display: inline-block;
             font-size:  16px;
+            color: white;
             text-transform: uppercase;
         }
     }
@@ -67,9 +68,9 @@
     }
 }
 
-.nav:before, 
-.nav:after, 
-.site-footer:before, 
+.nav:before,
+.nav:after,
+.site-footer:before,
 .author-info:after {
     content: '';
     display: block;

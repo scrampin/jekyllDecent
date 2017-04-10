@@ -54,7 +54,6 @@
             font-family: Mrs Saint Delafield;
             font-size: 70px;
             text-decoration: none;
-            color: $color-white;
             text-shadow: 1px 1px 5px rgba($color-black, 0.3);
         }
     }
@@ -66,6 +65,13 @@
         font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
         color: rgba($color-black, 0.8);
     }
+
+    .page-link {
+        font-size: 20px;
+        font-weight: normal;
+        font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
+        color: rgba($color-white, 1);
+        text-transform: uppercase;
 }
 
 .nav:before,
